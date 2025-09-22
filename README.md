@@ -11,7 +11,6 @@ This repository contains my SQL learning journey, including:
 
 - `scripts/` → SQL scripts and Python notebooks with queries.
 - `datasets/` → Public datasets from [City of Chicago Open Data](https://data.cityofchicago.org/).
-- `answers/` → Solutions to practice questions (multiple-choice and query-based).
 - `metadata.txt` → User-friendly description of the datasets.
 - `README.md` → Project documentation.
 
@@ -30,4 +29,5 @@ This repository contains my SQL learning journey, including:
    Public health and economic indicators for each community area in Chicago, including a hardship index.  
 
 Details in [`metadata.txt`](./metadata.txt).
+
 
