@@ -1,0 +1,56 @@
+# Metadata Summary
+
+This repository includes three datasets related to the City of Chicago.  
+The following summary provides user-friendly descriptions of each dataset, their purpose, scope, and key details.  
+
+---
+
+## 1. Crimes - 2001 to Present  
+**Domain:** Public Safety  
+- Contains reported incidents of crime in Chicago from 2001 to the present (excluding the most recent 7 days).  
+- Data comes from the Chicago Police Department’s CLEAR (Citizen Law Enforcement Analysis and Reporting) system.  
+- **Privacy protection:** Addresses are provided at the block level only; specific locations are not disclosed.  
+- **Caveats:**  
+  - Records are based on preliminary reports and may be reclassified after investigation.  
+  - Potential for human/mechanical error.  
+  - Not intended for precise time-comparison studies.  
+- **Updates:** Daily.  
+- **More info:** Chicago Police Department - Illinois Uniform Crime Reporting (IUCR) codes: http://data.cityofchicago.org/Public-Safety/Chicago-Police-Department-Illinois-Uniform-Crime-R/c7ck-438e  
+
+---
+
+## 2. Chicago Public Schools - Progress Report Cards (2011–2012)  
+**Domain:** Education  
+- Provides performance metrics for all schools in the Chicago Public Schools system during the 2011–2012 academic year.  
+- **Indicators include:**  
+  - Survey-based metrics: Student Safety, Family Involvement, Supportive Environment, Ambitious Instruction, Effective Leadership, Collaborative Teachers, Parent Engagement.  
+  - Attendance rates: Students and teachers.  
+  - Academic performance: Literacy & Math benchmarks (PK–8), ISAT test scores, growth metrics, algebra enrollment/passing, and ACT/PLAN/EXPLORE assessments.  
+  - College readiness & outcomes: Graduation rate, college eligibility, college enrollment.  
+- **Special codes:** “NDA” = No Data Available.  
+- **Purpose:** Tracks school performance, environment, and readiness for higher education.  
+
+---
+
+## 3. Socioeconomic Indicators and Hardship Index (2008–2012)  
+**Domain:** Public Health & Community Development  
+- Covers socioeconomic conditions across Chicago’s community areas.  
+- **Six core indicators:**  
+  1. % of occupied housing units with >1 person per room (crowded housing).  
+  2. % of households below the federal poverty level.  
+  3. % of unemployed persons (16+ years in the labor force).  
+  4. % of population (25+ years) without a high school diploma.  
+  5. % of population under 18 or over 64 (dependency ratio).  
+  6. Per capita income.  
+- Includes a **Hardship Index** summarizing the above indicators.  
+- Final row includes aggregate indicators for the City of Chicago as a whole.  
+- **Reference:** Full dataset description: https://data.cityofchicago.org/api/views/fwb8-6aw5/files/A5KBlegGR2nWI1jgP6pjJl32CTPwPbkl9KU3FxlZk-A?download=true  
+
+---
+
+## Notes for Users  
+- These datasets complement each other, allowing cross-domain analysis of crime, education, and socioeconomic conditions in Chicago.  
+- While highly valuable, users should keep in mind reporting limitations, missing data, and the contextual nature of survey-based and administrative indicators.  
+- Data are provided for research, analysis, and educational purposes.  
+
+---
