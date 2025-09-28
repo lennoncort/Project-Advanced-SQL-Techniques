@@ -1,9 +1,12 @@
 # SQL Practice & Chicago Datasets Project
 
 This repository contains my SQL learning journey, including:
-- Practice exercises with **multiple-choice SQL questions**.
+
+- Practice exercises with **multiple-choice SQL questions** and guided solutions.
 - Hands-on queries over real-world datasets from the City of Chicago.
-- Scripts and notes to reinforce concepts like `JOINs`, subqueries, `GROUP BY`, aggregation, and filtering.
+- Creation of relational database schemas (e.g., HR database) to practice table design, keys, and relationships.
+- Advanced SQL practice with views, complex `JOINs`, `UNION`, conditional logic (`CASE`), and data cleaning.
+- Scripts and notes to reinforce concepts like `JOINs`, subqueries, `GROUP BY`, aggregation, filtering, and transaction control.
 
 ---
 
@@ -26,8 +29,14 @@ This repository contains my SQL learning journey, including:
    Performance data for Chicago schools, including safety, environment, instruction, and student outcomes.  
 
 3. **Socioeconomic Indicators and Hardship Index (2008–2012)**  
-   Public health and economic indicators for each community area in Chicago, including a hardship index.  
+   Public health and economic indicators for each community area in Chicago, including a hardship index.
+   
+## 🔧 New Scripts Added
+- **HR_Database_Create_Tables_Script.sql** — Builds a full HR relational schema with tables for employees, jobs, departments, and job history.
+- **advanced_query_practice.sql** — Advanced practice on the HR schema, including creating/updating SQL views, complex filters, and aggregations.
+- **more_advanced_queries.sql** — Complex queries on Chicago datasets with multi-table JOINs, UNION operations, and data analysis on hardship index and school/crime data.
 
 Details in [`metadata.txt`](./metadata.txt).
+
 
 
